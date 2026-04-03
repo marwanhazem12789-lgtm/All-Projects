@@ -1,0 +1,58 @@
+﻿@model Real_Clinic.Models.VM
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Appointment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+
+            <div class="form-group">
+                <label>Date of session</label>
+                <input asp-for="date" class="form-control" />
+                <span asp-validation-for="date" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label>Notes of session</label>
+                <input asp-for="notes" class="form-control" />
+                <span asp-validation-for="notes" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label>Chosse Docotr</label>
+                <select asp-for="doctorId" class="form-control" asp-items="@(new SelectList(Model.Doctors, "Id", "Name"))"></select>
+            </div>
+
+
+            <div class="form-group">
+                <label>Chosse Patient</label>
+                <select asp-for="tientId" class="form-control" asp-items="@(new SelectList(Model.Patients,"Id",
+"Name") )"></select>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

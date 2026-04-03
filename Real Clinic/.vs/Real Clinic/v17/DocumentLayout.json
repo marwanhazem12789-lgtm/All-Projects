@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Clinic/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\models\\vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\models\\vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Clinic/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|c:\\users\\marwan\\source\\repos\\real clinic\\real clinic\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D747CE-881D-40F6-8FD3-C443F1CF40A5}|Real Clinic\\Real Clinic.csproj|solutionrelative:real clinic\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T07:19:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Appointment\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Delete.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Appointment\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T07:14:07.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Appointment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Edit.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Appointment\\Edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T07:01:42.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Appointments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Clinic/True/SqlTable/dbo.Appointments.sql",
+              "ToolTip": "dbo.Appointments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-03T06:57:57.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Clinic/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-03T06:57:38.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:41:13.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Details.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Appointment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Details.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Appointment\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:40:31.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:38:17.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VM.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\VM.cs",
+              "RelativeDocumentMoniker": "Real Clinic\\Models\\VM.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\VM.cs",
+              "RelativeToolTip": "Real Clinic\\Models\\VM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:24:29.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Real Clinic\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Real Clinic\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:22:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Details.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Patient\\Details.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Details.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Patient\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:21:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:18:59.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Patient\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Delete.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Patient\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:16:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Patient\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Edit.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Patient\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:15:45.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:15:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Real Clinic\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Real Clinic\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:09:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:06:43.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Doctor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Doctor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Doctor\\Details.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Doctor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:06:08.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Real Clinic\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "Real Clinic\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T06:05:34.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Real Clinic\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Real Clinic\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv1MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:01:37.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Real Clinic\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\Context.cs",
+              "RelativeToolTip": "Real Clinic\\Models\\Context.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:41:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Real Clinic\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\Appointment.cs",
+              "RelativeToolTip": "Real Clinic\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:39:24.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Real Clinic\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\Patient.cs",
+              "RelativeToolTip": "Real Clinic\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:38:50.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Real Clinic\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Clinic\\Real Clinic\\Models\\Doctor.cs",
+              "RelativeToolTip": "Real Clinic\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:37:18.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
