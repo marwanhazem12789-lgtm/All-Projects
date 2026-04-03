@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Orders/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Orders/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Orders/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Migrations\\20260403081310_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Real Orders\\Migrations\\20260403081310_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|c:\\users\\marwan\\source\\repos\\real orders\\real orders\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C625957-27B4-4EB2-8BF3-6216569A1851}|Real Orders\\Real Orders.csproj|solutionrelative:real orders\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Real Orders\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Order\\Create.cshtml*",
+              "RelativeToolTip": "Real Orders\\Views\\Order\\Create.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T09:08:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Real Orders\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Real Orders\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T09:07:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Real Orders\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Real Orders\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T09:03:09.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Real Orders\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:36:39.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\OrderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Models\\OrderDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\OrderDetailsViewModel.cs",
+              "RelativeToolTip": "Real Orders\\Models\\OrderDetailsViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:30:25.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "Real Orders\\Models\\OrderViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:27:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Real Orders\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Real Orders\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T08:24:26.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Real Orders\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Real Orders\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T08:23:55.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Real Orders\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Real Orders\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T08:23:16.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Real Orders\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Real Orders\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T08:22:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Real Orders\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:17:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Orders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Orders/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "dbo.Orders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-03T08:15:06.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Orders/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-03T08:14:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Orders/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-03T08:13:33.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260403081310_init.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Migrations\\20260403081310_init.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Migrations\\20260403081310_init.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Migrations\\20260403081310_init.cs",
+              "RelativeToolTip": "Real Orders\\Migrations\\20260403081310_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:13:11.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\Context.cs",
+              "RelativeToolTip": "Real Orders\\Models\\Context.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:09:12.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Real Orders\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:06:06.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\Order.cs",
+              "RelativeToolTip": "Real Orders\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:05:15.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\Product.cs",
+              "RelativeToolTip": "Real Orders\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:03:47.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Real Orders\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\maRWAN\\source\\repos\\Real Orders\\Real Orders\\Models\\Customer.cs",
+              "RelativeToolTip": "Real Orders\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:03:15.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
