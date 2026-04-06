@@ -1,39 +1,39 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Simple_Attendance_Tracking.Models;
 
 namespace Simple_Attendance_Tracking.Controllers
 {
     public class SubjectController : Controller
     {
-        public readonly Context c;
-        public SubjectController()
+        private readonly ISubject _s;
+
+        public SubjectController(ISubject subjectRepo)
         {
-            c = new Context();
+            _s = subjectRepo;
         }
-        // GET: SubjectController
+
+        // GET: Subject
         public IActionResult Index()
         {
-            var ss = c.Subjects.ToList();
+            var ss = _s.GetAll();
             return View(ss);
         }
 
-        // GET: SubjectController/Create
+        // GET: Subject/Create
         public IActionResult Create()
         {
-
             return View();
         }
 
-        // POST: SubjectController/Create
+        // POST: Subject/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(Subject collection)
         {
-           c.Subjects.Add(collection);
-            c.SaveChanges();
-            return RedirectToAction(nameof(Index)); 
+            
+                _s.Add(collection);
+                return RedirectToAction(nameof(Index));
+   
         }
-
     }
 }

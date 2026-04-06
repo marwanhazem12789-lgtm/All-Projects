@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\orderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\orderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\iorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\iorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|c:\\users\\marawan.hazem\\source\\repos\\ecowithrepo\\ecowithrepo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45AA37C8-969E-4288-9139-1CEB068146A0}|Ecowithrepo\\Ecowithrepo.csproj|solutionrelative:ecowithrepo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Ecowithrepo\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T12:46:48.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteConfirmed.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\DeleteConfirmed.cshtml",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Views\\Product\\DeleteConfirmed.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\DeleteConfirmed.cshtml",
+              "RelativeToolTip": "Ecowithrepo\\Views\\Product\\DeleteConfirmed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T12:42:14.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Ecowithrepo\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T12:41:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Ecowithrepo\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T12:41:04.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Ecowithrepo\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T12:40:19.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecowithrepo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswD0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:37:31.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Ecowithrepo\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T12:32:49.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Ecowithrepo\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:12:36.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Ecowithrepo\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T12:16:10.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\OrderViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:33:57.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Program.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Program.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Program.cs",
+              "RelativeToolTip": "Ecowithrepo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:27:27.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\CustomerRepo.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\CustomerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:10:00.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\OrderItemRepo.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\OrderItemRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\OrderItemRepo.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\OrderItemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:10:48.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\OrderRepo.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\OrderRepo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:10:30.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\Customer.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:06:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\Context.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:13:58.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\IOrder.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\IOrder.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\IOrder.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\IOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:09:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\ICustomer.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\ICustomer.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\ICustomer.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\ICustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:08:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\ProductRepo.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\ProductRepo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:10:20.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\Order.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:06:59.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\IProduct.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\IProduct.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\IProduct.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:08:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\IOrderItem.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\IOrderItem.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\IOrderItem.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\IOrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:09:40.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:07:24.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ecowithrepo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Ecowithrepo\\Ecowithrepo\\Models\\Product.cs",
+              "RelativeToolTip": "Ecowithrepo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T08:06:36.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

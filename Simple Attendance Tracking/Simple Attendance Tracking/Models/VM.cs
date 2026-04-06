@@ -8,7 +8,7 @@
         public List<Subject> Subjects { get; set; } = new List<Subject>();
         public string Status { get; set; }
         public int SubjectId { get; set; }
-
+        
         public Student Student { get; set; }
             public Subject Subject { get; set; }
     }

@@ -1,110 +1,88 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc;
 using Simple_Attendance_Tracking.Models;
 
 namespace Simple_Attendance_Tracking.Controllers
 {
     public class AttendanceController : Controller
     {
-        public readonly Context c;
-        public AttendanceController()
+        private readonly IAttendance _attendanceRepo;
+        private readonly IStudent _studentRepo;
+        private readonly ISubject _subjectRepo;
+
+        public AttendanceController(IAttendance attendanceRepo, IStudent studentRepo, ISubject subjectRepo)
         {
-            c = new Context();
+            _attendanceRepo = attendanceRepo;
+            _studentRepo = studentRepo;
+            _subjectRepo = subjectRepo;
         }
-        // GET: AttendanceController
+
+        // GET: Index
         public ActionResult Index()
         {
-            var a = c.Attendances.Include(a => a.Student).Include(a => a.Subject).ToList();
+            var a = _attendanceRepo.GetAll();
             return View(a);
         }
 
-        // GET: AttendanceController/Create
+        // GET: Create
         public ActionResult Create()
         {
             var adat = new VM
             {
-                Students = c.Students.ToList(),
-                Subjects = c.Subjects.ToList(),
+                Students = _studentRepo.GetAll(), 
+                Subjects = _subjectRepo.GetAll(), 
             };
             return View(adat);
         }
 
-        // POST: AttendanceController/Create
+        // POST: Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(VM collection)
         {
-           var data = new Attendance
-            {
-                StudentId = collection.StudentId,
-                SubjectId = collection.SubjectId,
-                Status = collection.Status,
-                Date = DateOnly.FromDateTime(DateTime.Now)
-            };
-            c.Attendances.Add(data);
-            c.SaveChanges();
-            return RedirectToAction(nameof(Index));
-
+           
+                _attendanceRepo.Add(collection); 
+                return RedirectToAction(nameof(Index));
+      
         }
 
-        // GET: AttendanceController/Edit/5
         public ActionResult Edit(int id)
         {
-            var a = c.Attendances.Find(id);
-            if (a == null)
+            var a = _attendanceRepo.GetById(id);
+            if (a == null) return NotFound();
+
+            var adat = new VM
             {
-                return NotFound();
-            }
-                var adat = new VM
-                {
-                    Id = a.Id,
-                    StudentId = a.StudentId,
-                    SubjectId = a.SubjectId,
-                    Status = a.Status,
-                    Students = c.Students.ToList(),
-                    Subjects = c.Subjects.ToList(),
-                };
+                Id = a.Id,
+                StudentId = a.StudentId,
+                SubjectId = a.SubjectId,
+                Status = a.Status,
+                Students = _studentRepo.GetAll(),
+                Subjects = _subjectRepo.GetAll(),
+            };
             return View(adat);
         }
 
-        // POST: AttendanceController/Edit/5
+        // POST: Edit
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, VM collection)
         {
-            var a = c.Attendances.Find(id);
-            if (a == null)
-            {
-                return NotFound();
-            }
-          a.StudentId = collection.StudentId;
-            a.SubjectId = collection.SubjectId;
-            a.Status = collection.Status;
-            a.Date = DateOnly.FromDateTime(DateTime.Now);
-            c.Update(a);
-            c.SaveChanges();
+            if (id != collection.Id) return NotFound();
+
+            _attendanceRepo.Update(collection); 
             return RedirectToAction(nameof(Index));
         }
 
-        // GET: AttendanceController/Delete/5
+        // GET: Delete
         public IActionResult Delete(int id)
         {
-            var a = c.Attendances
-                     .Include(s => s.Student)
-                     .Include(sub => sub.Subject)
-                     .FirstOrDefault(m => m.Id == id);
-            if (a == null)
-            {
-                return NotFound();
-            }
+            var a = _attendanceRepo.GetById(id);
+            if (a == null) return NotFound();
 
             var modelForView = new VM
             {
                 Id = a.Id,
                 Status = a.Status,
-                StudentId = a.StudentId,
-                SubjectId = a.SubjectId,
                 Student = a.Student,
                 Subject = a.Subject
             };
@@ -112,17 +90,12 @@ namespace Simple_Attendance_Tracking.Controllers
             return View(modelForView);
         }
 
-        // POST: AttendanceController/Delete/5
-        [HttpPost]
+        // POST: Delete
+        [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public IActionResult Delete(int id, VM collection)
+        public IActionResult DeleteConfirmed(int id)
         {
-            var b = c.Attendances.Find(id);
-            if (b != null)
-            {
-                c.Attendances.Remove(b);
-                c.SaveChanges();
-            }
+            _attendanceRepo.Delete(id);
             return RedirectToAction(nameof(Index));
         }
     }

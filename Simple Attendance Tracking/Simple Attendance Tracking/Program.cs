@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore; 
+using Simple_Attendance_Tracking.Models;
+
 namespace Simple_Attendance_Tracking
 {
     public class Program
@@ -6,16 +9,19 @@ namespace Simple_Attendance_Tracking
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            builder.Services.AddDbContext<Context>();
+            builder.Services.AddScoped<IStudent, StudentRepo>();
+            builder.Services.AddScoped<IAttendance, AttendanceRepo>();
+            builder.Services.AddScoped<ISubject, SubjectRepo>();
+
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 

@@ -6,17 +6,18 @@ namespace Simple_Attendance_Tracking.Controllers
 {
     public class StudentController : Controller
     {
-        public readonly Context c; 
-        public StudentController()
+        private readonly IStudent s;
+
+        public StudentController(IStudent studentRepo)
         {
-            c = new Context();
+            s= studentRepo;
         }
         // GET: StudentController
         public IActionResult Index()
         {
-            var s = c.Students.ToList();
+            var ss = s.GetAll();
 
-            return View(s);
+            return View(ss);
         }
 
 
@@ -31,20 +32,16 @@ namespace Simple_Attendance_Tracking.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Student collection)
         {
-            c.Students.Add(collection);
-            c.SaveChanges();
+            s.Add(collection);
             return RedirectToAction(nameof(Index));
         }
 
         // GET: StudentController/Edit/5
         public IActionResult Edit(int id)
         {
-            var s = c.Students.Find(id);
-            if (s == null)
-            {
-                return NotFound();
-            }
-            return View(s);
+            var student = s.GetById(id);
+            if (student == null) return NotFound();
+            return View(student);
         }
 
         // POST: StudentController/Edit/5
@@ -52,16 +49,15 @@ namespace Simple_Attendance_Tracking.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Student collection)
         {
-            c.Update(collection);
-            c.SaveChanges();
+            s.Update(collection);
             return RedirectToAction(nameof(Index));
         }
 
         // GET: StudentController/Delete/5
         public IActionResult Delete(int id)
         {
-            var s = c.Students.Find(id);
-            if (s == null)
+            var ss = s.GetById(id);
+            if (ss == null)
             {
                 return NotFound();
             }
@@ -70,13 +66,13 @@ namespace Simple_Attendance_Tracking.Controllers
         }
 
 
+
         // POST: StudentController/Delete/5
-        [HttpPost]
+        [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public IActionResult Delete(int id, Student collection)
+        public IActionResult Delete2(int id)
         {
-         c.Students.Remove(collection);
-            c.SaveChanges();
+            s.Delete(id);
             return RedirectToAction(nameof(Index));
         }
     }
