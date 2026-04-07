@@ -1,0 +1,575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\iborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\iborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\borrowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\borrowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\borrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\borrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\borrow\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\borrow\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\borrow\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\borrow\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\borrow\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\borrow\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\models\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\models\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Borrows.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Members.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|c:\\users\\marawan.hazem\\source\\repos\\libirary mvc with repo\\libirary mvc with repo\\migrations\\20260407070957_ininininin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913F2B86-61B7-4EA1-9F8C-302A1EBFB9B3}|Libirary MVC With Repo\\Libirary MVC With Repo.csproj|solutionrelative:libirary mvc with repo\\migrations\\20260407070957_ininininin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Borrow\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Borrow\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Borrow\\Delete.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Borrow\\Delete.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T10:10:29.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBorrow.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\IBorrow.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\IBorrow.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\IBorrow.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\IBorrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:14:04.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\BorrowRepo.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\BorrowRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\BorrowRepo.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\BorrowRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:25:17.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Borrow\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Borrow\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Borrow\\Edit.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Borrow\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:52:09.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\BorrowViewModel.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\BorrowViewModel.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\BorrowViewModel.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\BorrowViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:23:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwFoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:17:15.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\appsettings.json",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\appsettings.json",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\appsettings.json",
+              "RelativeToolTip": "Libirary MVC With Repo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T10:41:02.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\Book.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:03:19.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\BookRepo.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\BookRepo.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\BookRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:18:23.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:32:36.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Borrow\\Create.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Borrow\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Borrow\\Create.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Borrow\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:38:36.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\Borrow.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\Borrow.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\Borrow.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:05:24.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Borrow\\Index.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Borrow\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Borrow\\Index.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Borrow\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:30:28.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA/wEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:27:58.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:16:33.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:16:00.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:14:47.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:14:20.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T09:13:47.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Program.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Program.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Program.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:40:41.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Member\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Delete.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Member\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T07:39:36.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Member\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Edit.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Member\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T07:39:11.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T07:38:35.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Details.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Member\\Details.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Details.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Member\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T07:36:42.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Libirary MVC With Repo\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T07:36:11.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\IBook.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\IBook.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\IBook.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:13:12.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\MemberRepo.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\MemberRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:14:27.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IMember.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\IMember.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\IMember.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\IMember.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\IMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:12:50.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.Borrows.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Borrows.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Borrows.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-07T07:11:34.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.Books.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Books.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-07T07:10:57.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.Members.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Members.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Libibi/True/SqlTable/dbo.Members.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-07T07:10:15.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\Context.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:08:14.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260407070957_ininininin.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Migrations\\20260407070957_ininininin.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Migrations\\20260407070957_ininininin.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Migrations\\20260407070957_ininininin.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Migrations\\20260407070957_ininininin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:09:57.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Libirary MVC With Repo\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Libirary MVC With Repo\\Libirary MVC With Repo\\Models\\Member.cs",
+              "RelativeToolTip": "Libirary MVC With Repo\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:04:57.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
