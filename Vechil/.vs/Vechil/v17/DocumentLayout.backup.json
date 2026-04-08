@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|c:\\users\\marawan.hazem\\source\\repos\\vechil\\vechil\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|solutionrelative:vechil\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|c:\\users\\marawan.hazem\\source\\repos\\vechil\\vechil\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|solutionrelative:vechil\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|c:\\users\\marawan.hazem\\source\\repos\\vechil\\vechil\\models\\maintenancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|solutionrelative:vechil\\models\\maintenancerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|c:\\users\\marawan.hazem\\source\\repos\\vechil\\vechil\\models\\maintenancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|solutionrelative:vechil\\models\\maintenancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|c:\\users\\marawan.hazem\\source\\repos\\vechil\\vechil\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C829D3-7EF5-448D-8E42-7B700FEA11ED}|Vechil\\Vechil.csproj|solutionrelative:vechil\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Vechil\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\Context.cs",
+              "RelativeToolTip": "Vechil\\Models\\Context.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:17:39.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaintenanceRecord.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\MaintenanceRecord.cs",
+              "RelativeDocumentMoniker": "Vechil\\Models\\MaintenanceRecord.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\MaintenanceRecord.cs",
+              "RelativeToolTip": "Vechil\\Models\\MaintenanceRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:17:12.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaintenanceType.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\MaintenanceType.cs",
+              "RelativeDocumentMoniker": "Vechil\\Models\\MaintenanceType.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\MaintenanceType.cs",
+              "RelativeToolTip": "Vechil\\Models\\MaintenanceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:16:37.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vechil\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Vechil\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:15:58.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Vechil\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Vechil\\Vechil\\Models\\User.cs*",
+              "RelativeToolTip": "Vechil\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:15:21.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
