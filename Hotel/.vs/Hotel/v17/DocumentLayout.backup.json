@@ -1,0 +1,883 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\models\\bookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\bookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\bookingrecord\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\bookingrecord\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\controllers\\bookingrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controllers\\bookingrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\models\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\repos\\implement\\bookingrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\repos\\implement\\bookingrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\bookingrecord\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\bookingrecord\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\bookingrecord\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\bookingrecord\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\bookingrecord\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\bookingrecord\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\models\\bookingrecordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\bookingrecordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\controllers\\servicetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controllers\\servicetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\repos\\implement\\servicetyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\repos\\implement\\servicetyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\repos\\interfaces\\ibookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\repos\\interfaces\\ibookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414090506_jhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel\\Migrations\\20260414090506_jhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\servicetype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\servicetype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\servicetype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\servicetype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\models\\servicetypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\servicetypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\servicetype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\servicetype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\servicetype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\servicetype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\repos\\implement\\roomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\repos\\implement\\roomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\models\\roomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\roomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\room\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\room\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\room\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\room\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\room\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\room\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\repos\\interfaces\\iservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\repos\\interfaces\\iservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\repos\\interfaces\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\repos\\interfaces\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\repos\\implement\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\repos\\implement\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\repos\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\repos\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/HotelWeb/True/SqlTable/dbo.bookingRecords.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/HotelWeb/True/SqlTable/dbo.serviceTypes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/HotelWeb/True/SqlTable/dbo.Rooms.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/HotelWeb/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|c:\\users\\marawan.hazem\\source\\repos\\hotel\\hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D1F1C5E-EA09-4E70-8D28-83E31BE3F620}|Hotel\\Hotel.csproj|solutionrelative:hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414073000_jht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel\\Migrations\\20260414073000_jht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414072652_InitialFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel\\Migrations\\20260414072652_InitialFinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414072427_nhgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel\\Migrations\\20260414072427_nhgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvx8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:33:05.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Hotel\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:36:11.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\BookingRecord\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\BookingRecord\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\BookingRecord\\Delete.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\BookingRecord\\Delete.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:45:56.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\BookingRecord\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\BookingRecord\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\BookingRecord\\Edit.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\BookingRecord\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:44:09.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\BookingRecord\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\BookingRecord\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\BookingRecord\\Create.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\BookingRecord\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswBsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:43:22.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\BookingRecord\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\BookingRecord\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\BookingRecord\\Index.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\BookingRecord\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:42:40.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Controllers\\BookingRecordController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controllers\\BookingRecordController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Controllers\\BookingRecordController.cs",
+              "RelativeToolTip": "Hotel\\Controllers\\BookingRecordController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:20:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\ServiceType\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\ServiceType\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\ServiceType\\Create.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\ServiceType\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:15:28.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\ServiceType\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\ServiceType\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\ServiceType\\Delete.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\ServiceType\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:16:27.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\ServiceType\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\ServiceType\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\ServiceType\\Edit.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\ServiceType\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:15:57.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\ServiceType\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\ServiceType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\ServiceType\\Index.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\ServiceType\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:14:50.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Controllers\\ServiceTypeController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controllers\\ServiceTypeController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Controllers\\ServiceTypeController.cs",
+              "RelativeToolTip": "Hotel\\Controllers\\ServiceTypeController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:05:44.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:03:57.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:03:55.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Room\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\Room\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Room\\Delete.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\Room\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:52:46.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Room\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\Room\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Room\\Edit.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\Room\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:52:09.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Room\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\Room\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Room\\Create.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\Room\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:51:39.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Room\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\Room\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\Room\\Index.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\Room\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:51:00.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Hotel\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:43:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:42:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:42:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:41:55.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:41:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Hotel\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T09:40:40.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Hotel\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwFAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:35:23.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceTyperepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Implement\\ServiceTyperepo.cs",
+              "RelativeDocumentMoniker": "Hotel\\REPOS\\Implement\\ServiceTyperepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Implement\\ServiceTyperepo.cs",
+              "RelativeToolTip": "Hotel\\REPOS\\Implement\\ServiceTyperepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:24:29.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingRecordRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Implement\\BookingRecordRepo.cs",
+              "RelativeDocumentMoniker": "Hotel\\REPOS\\Implement\\BookingRecordRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Implement\\BookingRecordRepo.cs",
+              "RelativeToolTip": "Hotel\\REPOS\\Implement\\BookingRecordRepo.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA9wDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:27:38.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Implement\\RoomRepo.cs",
+              "RelativeDocumentMoniker": "Hotel\\REPOS\\Implement\\RoomRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Implement\\RoomRepo.cs",
+              "RelativeToolTip": "Hotel\\REPOS\\Implement\\RoomRepo.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:13:45.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Implement\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Hotel\\REPOS\\Implement\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Implement\\UserRepo.cs",
+              "RelativeToolTip": "Hotel\\REPOS\\Implement\\UserRepo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:11:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "dbo.bookingRecords [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/HotelWeb/True/SqlTable/dbo.bookingRecords.sql",
+              "ToolTip": "dbo.bookingRecords [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T09:08:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "dbo.serviceTypes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/HotelWeb/True/SqlTable/dbo.serviceTypes.sql",
+              "ToolTip": "dbo.serviceTypes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T09:08:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.Rooms [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/HotelWeb/True/SqlTable/dbo.Rooms.sql",
+              "ToolTip": "dbo.Rooms [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T09:06:32.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/HotelWeb/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T09:05:37.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260414090506_jhf.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414090506_jhf.cs",
+              "RelativeDocumentMoniker": "Hotel\\Migrations\\20260414090506_jhf.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414090506_jhf.cs",
+              "RelativeToolTip": "Hotel\\Migrations\\20260414090506_jhf.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:05:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingRecordVM.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\BookingRecordVM.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\BookingRecordVM.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\BookingRecordVM.cs",
+              "RelativeToolTip": "Hotel\\Models\\BookingRecordVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:39:37.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingRecord.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Interfaces\\IBookingRecord.cs",
+              "RelativeDocumentMoniker": "Hotel\\REPOS\\Interfaces\\IBookingRecord.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Interfaces\\IBookingRecord.cs",
+              "RelativeToolTip": "Hotel\\REPOS\\Interfaces\\IBookingRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:39:30.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Interfaces\\IServiceType.cs",
+              "RelativeDocumentMoniker": "Hotel\\REPOS\\Interfaces\\IServiceType.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Interfaces\\IServiceType.cs",
+              "RelativeToolTip": "Hotel\\REPOS\\Interfaces\\IServiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:38:20.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceTypeVM.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\ServiceTypeVM.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\ServiceTypeVM.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\ServiceTypeVM.cs",
+              "RelativeToolTip": "Hotel\\Models\\ServiceTypeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:37:02.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\ServiceType.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\ServiceType.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\ServiceType.cs",
+              "RelativeToolTip": "Hotel\\Models\\ServiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:12:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRoom.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Interfaces\\IRoom.cs",
+              "RelativeDocumentMoniker": "Hotel\\REPOS\\Interfaces\\IRoom.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Interfaces\\IRoom.cs",
+              "RelativeToolTip": "Hotel\\REPOS\\Interfaces\\IRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:35:45.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomVM.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\RoomVM.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\RoomVM.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\RoomVM.cs",
+              "RelativeToolTip": "Hotel\\Models\\RoomVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:34:12.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "Hotel\\REPOS\\Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\REPOS\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "Hotel\\REPOS\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:33:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\appsettings.json",
+              "RelativeDocumentMoniker": "Hotel\\appsettings.json",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\appsettings.json",
+              "RelativeToolTip": "Hotel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T07:32:00.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20260414073000_jht.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414073000_jht.cs",
+              "RelativeDocumentMoniker": "Hotel\\Migrations\\20260414073000_jht.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414073000_jht.cs",
+              "RelativeToolTip": "Hotel\\Migrations\\20260414073000_jht.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:30:01.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20260414072652_InitialFinal.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414072652_InitialFinal.cs",
+              "RelativeDocumentMoniker": "Hotel\\Migrations\\20260414072652_InitialFinal.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414072652_InitialFinal.cs",
+              "RelativeToolTip": "Hotel\\Migrations\\20260414072652_InitialFinal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:26:52.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20260414072427_nhgs.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414072427_nhgs.cs",
+              "RelativeDocumentMoniker": "Hotel\\Migrations\\20260414072427_nhgs.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Migrations\\20260414072427_nhgs.cs",
+              "RelativeToolTip": "Hotel\\Migrations\\20260414072427_nhgs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:24:27.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel\\Program.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Program.cs",
+              "RelativeToolTip": "Hotel\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:21:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\Context.cs",
+              "RelativeToolTip": "Hotel\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:18:38.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingRecord.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\BookingRecord.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\BookingRecord.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\BookingRecord.cs",
+              "RelativeToolTip": "Hotel\\Models\\BookingRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:12:57.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\Room.cs",
+              "RelativeToolTip": "Hotel\\Models\\Room.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:10:15.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Hotel\\Hotel\\Models\\User.cs",
+              "RelativeToolTip": "Hotel\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T07:08:19.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
